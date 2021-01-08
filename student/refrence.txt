@@ -1,0 +1,27 @@
+sex : 0:female , 1: male
+address : u:0, r :1  
+famsize: LE3:0, GT3: 1
+Pstatus: 0: T, 1:A
+MJOB: 0:teacher, 1:health , 2:civil services ,3:at_home ,4:other
+FJOB:0:teacher, 1:health , 2:civil, services3:at_home ,4:other 
+reason: 0:close_to_home , 1: reputation, 2:cource, 4:other
+
+gurdian:0:mother, 1: father ,4:other
+schoolsup: 0:yes, 1:no
+
+famsup: 0:yes, 1:no
+paid: 0:yes, 1:no
+activites: 0:yes, 1:no
+nursery: 0:yes, 1:no
+higher: 0:yes, 1:no
+internet: 0:yes, 1:no
+romantic: 0:yes, 1:no
+
+"0":0
+"1":1
+.
+.
+.
+.
+.
+"20":20
